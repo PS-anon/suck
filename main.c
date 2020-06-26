@@ -36,8 +36,17 @@ int main (){
 		system("git remote -v");
 		system("git push -u origin master");		
 	}
+	else if (a == 3){
+		printf("SUUUUUUUUCK MYYYYYYYYY WAIT WUT :|\n");
+	}
+	else if (a == 4){
+		printf("Enjoy :|\n");
+	}
+	else if (a == 5){
+		printf("Bruh i know i am good but that scares me :|\n");
+	}
 	else{
-		printf("Loooool n000b");
+		printf("Loooool n000b\n");
 	}
 
 	return 0;
